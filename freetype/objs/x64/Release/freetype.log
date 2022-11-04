@@ -1,0 +1,91 @@
+﻿cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  autofit.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftbase.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftbbox.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftbdf.c
+  ftbitmap.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftcid.c
+  ftfstype.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftgasp.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftglyph.c
+  ftgxval.c
+  ftinit.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftmm.c
+C:\Users\admin\Desktop\freetype\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+C:\Users\admin\Desktop\freetype\src\autofit\afblue.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+C:\Users\admin\Desktop\freetype\src\autofit\afblue.c(257,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+C:\Users\admin\Desktop\freetype\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+C:\Users\admin\Desktop\freetype\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+C:\Users\admin\Desktop\freetype\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+C:\Users\admin\Desktop\freetype\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+C:\Users\admin\Desktop\freetype\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+  ftotval.c
+  ftpatent.c
+  ftpfr.c
+  ftstroke.c
+  ftsynth.c
+  ftsystem.c
+  fttype1.c
+  ftwinfnt.c
+  bdf.c
+  ftcache.c
+C:\Users\admin\Desktop\freetype\src\base\ftstroke.c(1021): warning C4701: 使用了可能未初始化的局部变量“sigma”
+C:\Users\admin\Desktop\freetype\src\base\ftstroke.c(1116): warning C4701: 使用了可能未初始化的局部变量“sigma”
+  cff.c
+  type1cid.c
+  ftgzip.c
+  ftlzw.c
+  pcf.c
+  pfr.c
+  psaux.c
+  pshinter.c
+  psmodule.c
+  raster.c
+  sfnt.c
+  smooth.c
+  truetype.c
+  type1.c
+  type42.c
+C:\Users\admin\Desktop\freetype\src\psaux\t1decode.c(1992,27): warning C4267: “=”: 从“size_t”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\psaux\psaux.c)
+C:\Users\admin\Desktop\freetype\src\sfnt\sfdriver.c(859,32): warning C4267: “=”: 从“size_t”转换到“FT_UInt”，可能丢失数据 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+C:\Users\admin\Desktop\freetype\src\sfnt\sfdriver.c(1010,44): warning C4244: “函数”: 从“__int64”转换到“const unsigned int”，可能丢失数据 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+C:\Users\admin\Desktop\freetype\src\sfnt\sfwoff2.c(317,37): warning C4100: “src_size”: 未引用的形参 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+C:\Users\admin\Desktop\freetype\src\sfnt\sfwoff2.c(316,37): warning C4100: “src”: 未引用的形参 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+C:\Users\admin\Desktop\freetype\src\sfnt\sfwoff2.c(315,37): warning C4100: “dst_size”: 未引用的形参 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+C:\Users\admin\Desktop\freetype\src\sfnt\sfwoff2.c(314,37): warning C4100: “dst”: 未引用的形参 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+C:\Users\admin\Desktop\freetype\src\psaux\psintrp.c(1005,29): warning C4267: “=”: 从“size_t”转换到“FT_Fast”，可能丢失数据 (编译源文件 ..\..\..\src\psaux\psaux.c)
+  winfnt.c
+C:\Users\admin\Desktop\freetype\src\smooth\ftgrays.c(1703,26): warning C4267: “+=”: 从“size_t”转换到“TCoord”，可能丢失数据 (编译源文件 ..\..\..\src\smooth\smooth.c)
+C:\Users\admin\Desktop\freetype\src\sfnt\ttload.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1driver.c(276,51): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1driver.c(297,58): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1driver.c(329,65): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1driver.c(359,23): warning C4267: “=”: 从“size_t”转换到“FT_UInt”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1driver.c(568,59): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1driver.c(577,58): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1driver.c(586,61): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1driver.c(595,63): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1driver.c(605,58): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\type42\t42parse.c(832,66): warning C4244: “=”: 从“__int64”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\type42\type42.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1load.c(1761,68): warning C4244: “=”: 从“__int64”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\type1\t1load.c(1931,40): warning C4244: “=”: 从“__int64”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+C:\Users\admin\Desktop\freetype\src\smooth\ftgrays.c(533): warning C4706: 条件表达式内的赋值
+C:\Users\admin\Desktop\freetype\src\truetype\ttgload.c(1901,42): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“void *” (编译源文件 ..\..\..\src\truetype\truetype.c)
+C:\Users\admin\Desktop\freetype\src\truetype\ttobjs.c(1025,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\truetype\truetype.c)
+C:\Users\admin\Desktop\freetype\src\truetype\ttgxvar.c(2237): warning C4701: 使用了可能未初始化的局部变量“fvar_head”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftdebug.c
+    正在创建库 ..\..\..\objs\x64\Release\freetype.lib 和对象 ..\..\..\objs\x64\Release\freetype.exp
+  freetype.vcxproj -> C:\Users\admin\Desktop\freetype\objs\x64\Release\freetype.dll
